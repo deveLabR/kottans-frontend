@@ -66,3 +66,12 @@ Some modules were easy, but the last two were quite interesting and I learned a 
 ![Introduction to Git and GitHub - week 4](https://github.com/deveLabR/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-4.png)
 
 </details>
+
+<h2>:three: Intro to HTML and CSS</h2>
+
+<details><summary>Coursera Intro to HTML & CSS (Weeks 1-2)</summary>
+
+![Coursera Intro to HTML & CSS - week 1](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week-1.png)
+![Coursera Intro to HTML & CSS - week 2](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week-2.png)
+
+</details>
