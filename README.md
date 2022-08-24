@@ -75,3 +75,15 @@ Some modules were easy, but the last two were quite interesting and I learned a 
 ![Coursera Intro to HTML & CSS - week 2](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week-2.png)
 
 </details>
+
+<details><summary>HTML CodeAcademy</summary>
+
+![HTML CodeAcademy](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/HTML-CodeAcademy.png)
+
+</details>
+
+<details><summary>CSS CodeAcademy</summary>
+
+![CSS CodeAcademy](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/CSS-CodeAcademy.png)
+
+</details>
