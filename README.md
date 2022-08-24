@@ -87,3 +87,11 @@ Some modules were easy, but the last two were quite interesting and I learned a 
 ![CSS CodeAcademy](https://github.com/deveLabR/kottans-frontend/blob/main/task_html_css_intro/CSS-CodeAcademy.png)
 
 </details>
+
+<details><summary>Details</summary>
+<p>
+
+Many of these things were not new to me, but it was good to remember some things.
+
+</p>
+</details>
