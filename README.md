@@ -95,3 +95,25 @@ Many of these things were not new to me, but it was good to remember some things
 
 </p>
 </details>
+
+<h2>:four: Responsive Web Design</h2>
+
+<details><summary>Flexbox Froggy</summary>
+
+![Flexbox Froggy](https://github.com/deveLabR/kottans-frontend/blob/main/task_responsive_web_design/flexboxfroggy.png)
+
+</details>
+
+<details><summary>Grid Garden</summary>
+
+![Grid Garden](https://github.com/deveLabR/kottans-frontend/blob/main/task_responsive_web_design/cssgridgarden.png)
+
+</details>
+
+<details><summary>Details</summary>
+<p>
+
+It was really fun)) The tasks were not too difficult, I remembered some forgotten things.
+
+</p>
+</details>
