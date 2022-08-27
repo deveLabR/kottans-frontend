@@ -117,3 +117,15 @@ It was really fun)) The tasks were not too difficult, I remembered some forgotte
 
 </p>
 </details>
+
+<h2>:five: HTML & CSS Practice</h2>
+
+[Code](https://github.com/deveLabR/kottans-frontend/tree/main/hooli_style_popup) | [Demo](https://develabr.github.io/kottans-frontend/hooli_style_popup/)
+
+<details><summary>Details</summary>
+<p>
+
+It was interesting, but there were still some difficulties, where I did not expect.
+
+</p>
+</details>
