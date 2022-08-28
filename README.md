@@ -129,3 +129,49 @@ It was interesting, but there were still some difficulties, where I did not expe
 
 </p>
 </details>
+
+<h2>:six: Javascript Basics</h2>
+
+<details><summary>Coursera Introduction to Javascript (week 4)</summary>
+
+![Coursera Introduction to Javascript - week 4](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/coursera-js-week-4.png)
+
+</details>
+
+<details><summary>FreeCodeCamp Basic JavaScript & JS ES6</summary>
+
+![FreeCodeCamp Basic JavaScript & JS ES6](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/FreeCodeCamp-1.png)
+
+</details>
+
+<details><summary>FreeCodeCamp Basic Data Structures</summary>
+
+![FreeCodeCamp Basic Data Structures](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/FreeCodeCamp-2.png)
+
+</details>
+
+<details><summary>FreeCodeCamp Basic Algorithm Scripting</summary>
+
+![FreeCodeCamp Basic Algorithm Scripting](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/FreeCodeCamp-3.png)
+
+</details>
+
+<details><summary>FreeCodeCamp Functional Programming</summary>
+
+![FreeCodeCamp Functional Programming](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/FreeCodeCamp-4.png)
+
+</details>
+
+<details><summary>FreeCodeCamp Algorithm Scripting Challenges</summary>
+
+![FreeCodeCamp Algorithm Scripting Challenges](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_basics/FreeCodeCamp-5.png)
+
+</details>
+
+<details><summary>Details</summary>
+<p>
+
+With some tasks I had to break my head and spend more time than planned, but on the whole I liked the course FreeCodeCamp more than Coursera.
+
+</p>
+</details>
