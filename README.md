@@ -120,7 +120,7 @@ It was really fun)) The tasks were not too difficult, I remembered some forgotte
 
 <h2>:five: HTML & CSS Practice</h2>
 
-[Code](https://github.com/deveLabR/hooli-style-popup) | [Demo](https://develabr.github.io/hooli-style-popup/)
+[Code](https://github.com/deveLabR/hooli-style-popup) | [Demo](https://develabr.github.io/hooli-style-popup/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/321)
 
 <details><summary>Details</summary>
 <p>
