@@ -191,3 +191,7 @@ With some tasks I had to break my head and spend more time than planned, but on 
 ![Coursera Document Object Model Manipulation (week 5)](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_dom/coursera-dom-weel-5.png)
 
 </details>
+
+<h2>:eight: Building a Tiny JS World (pre-OOP)</h2>
+
+[Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/)
