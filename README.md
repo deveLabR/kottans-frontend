@@ -176,8 +176,6 @@ With some tasks I had to break my head and spend more time than planned, but on 
 </p>
 </details>
 
-Document Object Model
-
 <h2>:seven: Document Object Model</h2>
 
 [Code](https://github.com/deveLabR/dom-js) | [Demo](https://develabr.github.io/dom-js/)
