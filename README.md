@@ -175,3 +175,21 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 </p>
 </details>
+
+Document Object Model
+
+<h2>:seven: Document Object Model</h2>
+
+[Code](https://github.com/deveLabR/dom-js) | [Demo](https://develabr.github.io/dom-js/)
+
+<details><summary>FreeCodeCamp Algorithm Scripting Challenges</summary>
+
+![FreeCodeCamp Algorithm Scripting Challenges](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_dom/FreeCodeCamp-5.png)
+
+</details>
+
+<details><summary>Coursera Document Object Model Manipulation (week 5)</summary>
+
+![Coursera Document Object Model Manipulation (week 5)](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_dom/coursera-dom-weel-5.png)
+
+</details>
