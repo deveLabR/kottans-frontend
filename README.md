@@ -178,7 +178,7 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 <h2>:seven: Document Object Model</h2>
 
-[Code](https://github.com/deveLabR/dom-js) | [Demo](https://develabr.github.io/dom-js/)
+[Code](https://github.com/deveLabR/dom-js) | [Demo](https://develabr.github.io/dom-js/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/370)
 
 <details><summary>FreeCodeCamp Algorithm Scripting Challenges</summary>
 
