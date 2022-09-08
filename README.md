@@ -200,8 +200,8 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 [Code](https://github.com/deveLabR/frontend-nanodegree-arcade-game) | [Demo](https://develabr.github.io/frontend-nanodegree-arcade-game/)
 
-<details><summary>Classic Frogger Game</summary>
+<details><summary>Codewars</summary>
 
-![Classic Frogger Game](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_oop/codewars.png)
+![Codewars](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_oop/codewars.png)
 
 </details>
