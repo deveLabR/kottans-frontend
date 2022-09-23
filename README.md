@@ -205,3 +205,9 @@ With some tasks I had to break my head and spend more time than planned, but on 
 ![Codewars](https://github.com/deveLabR/kottans-frontend/blob/main/task_js_oop/codewars.png)
 
 </details>
+
+<h2>:keycap_ten: OOP exercise</h2>
+
+[Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/)
+
+<h2>:keycap_eleven: Offline Web Applications</h2>
