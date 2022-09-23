@@ -1,6 +1,6 @@
 # kottans-frontend
 
-<h2>:zero: Git Basics</h2>
+<h2>:white_check_mark: Git Basics</h2>
 
 <details><summary>Introduction Sequence</summary>
 
@@ -32,7 +32,7 @@
 
 </details>
 
-<h2>:one: Linux CLI, and HTTP</h2>
+<h2>:white_check_mark: Linux CLI, and HTTP</h2>
 
 <details><summary>Linux Survival</summary>
 
@@ -53,7 +53,7 @@ Some modules were easy, but the last two were quite interesting and I learned a 
 </p>
 </details>
 
-<h2>:two: Git Collaboration</h2>
+<h2>:white_check_mark: Git Collaboration</h2>
 
 <details><summary>Introduction to Git and GitHub - week 3</summary>
 
@@ -67,7 +67,7 @@ Some modules were easy, but the last two were quite interesting and I learned a 
 
 </details>
 
-<h2>:three: Intro to HTML and CSS</h2>
+<h2>:white_check_mark: Intro to HTML and CSS</h2>
 
 <details><summary>Coursera Intro to HTML & CSS (Weeks 1-2)</summary>
 
@@ -96,7 +96,7 @@ Many of these things were not new to me, but it was good to remember some things
 </p>
 </details>
 
-<h2>:four: Responsive Web Design</h2>
+<h2>:white_check_mark: Responsive Web Design</h2>
 
 <details><summary>Flexbox Froggy</summary>
 
@@ -118,7 +118,7 @@ It was really fun)) The tasks were not too difficult, I remembered some forgotte
 </p>
 </details>
 
-<h2>:five: HTML & CSS Practice</h2>
+<h2>:white_check_mark: HTML & CSS Practice</h2>
 
 [Code](https://github.com/deveLabR/hooli-style-popup) | [Demo](https://develabr.github.io/hooli-style-popup/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/321)
 
@@ -130,7 +130,7 @@ It was interesting, but there were still some difficulties, where I did not expe
 </p>
 </details>
 
-<h2>:six: Javascript Basics</h2>
+<h2>:white_check_mark: Javascript Basics</h2>
 
 <details><summary>Coursera Introduction to Javascript (week 4)</summary>
 
@@ -176,7 +176,7 @@ With some tasks I had to break my head and spend more time than planned, but on 
 </p>
 </details>
 
-<h2>:seven: Document Object Model</h2>
+<h2>:white_check_mark: Document Object Model</h2>
 
 [Code](https://github.com/deveLabR/dom-js) | [Demo](https://develabr.github.io/dom-js/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/370)
 
@@ -192,11 +192,11 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 </details>
 
-<h2>:eight: Building a Tiny JS World (pre-OOP)</h2>
+<h2>:white_check_mark: Building a Tiny JS World (pre-OOP)</h2>
 
 [Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/414)
 
-<h2>:nine: Object-Oriented JavaScript</h2>
+<h2>:white_large_square: Object-Oriented JavaScript</h2>
 
 [Code](https://github.com/deveLabR/frontend-nanodegree-arcade-game) | [Demo](https://develabr.github.io/frontend-nanodegree-arcade-game/)
 
@@ -206,8 +206,18 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 </details>
 
-<h2>:keycap_ten: OOP exercise</h2>
+<h2>:white_large_square: OOP exercise</h2>
 
 [Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/)
 
-<h2>:white_check_mark: Offline Web Applications</h2>
+<h2>:white_large_square: Offline Web Applications</h2>
+
+<h2>:white_large_square: Memory pair game</h2>
+
+[Code](https://github.com/deveLabR/memory-pair-game) | [Demo](https://develabr.github.io/memory-pair-game/)
+
+<h2>:white_large_square: Website Performance Optimization</h2>
+
+<h2>:white_large_square: Friends App</h2>
+
+[Code](https://github.com/deveLabR/friends-app) | [Demo](https://develabr.github.io/friends-app/)
