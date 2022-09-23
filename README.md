@@ -210,4 +210,4 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 [Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/)
 
-<h2>:one::one: Offline Web Applications</h2>
+<h2>:white_check_mark: Offline Web Applications</h2>
