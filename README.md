@@ -194,7 +194,7 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 <h2>:eight: Building a Tiny JS World (pre-OOP)</h2>
 
-[Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/)
+[Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/414)
 
 <h2>:nine: Object-Oriented JavaScript</h2>
 
