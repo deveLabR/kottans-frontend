@@ -196,9 +196,9 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 [Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/414)
 
-<h2>:white_large_square: Object-Oriented JavaScript</h2>
+<h2>:white_check_mark: Object-Oriented JavaScript</h2>
 
-[Code](https://github.com/deveLabR/frontend-nanodegree-arcade-game) | [Demo](https://develabr.github.io/frontend-nanodegree-arcade-game/)
+[Code](https://github.com/deveLabR/frontend-nanodegree-arcade-game) | [Demo](https://develabr.github.io/frontend-nanodegree-arcade-game/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/484)
 
 <details><summary>Codewars</summary>
 
