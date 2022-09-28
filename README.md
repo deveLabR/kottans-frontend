@@ -210,7 +210,21 @@ With some tasks I had to break my head and spend more time than planned, but on 
 
 [Code](https://github.com/deveLabR/a-tiny-JS-world) | [Demo](https://develabr.github.io/a-tiny-JS-world/) | [Approved PR](https://github.com/kottans/frontend-2022-homeworks/pull/524)
 
-<h2>:white_large_square: Offline Web Applications</h2>
+<h2>:white_check_mark: Offline Web Applications</h2>
+
+<details><summary>Udacity Offline Web Applications</summary>
+
+![Offline Web Applications](https://github.com/deveLabR/kottans-frontend/blob/main/task_offline_web_app/offline-web-application.png)
+
+</details>
+
+<details><summary>Details</summary>
+<p>
+
+In my opinion, the most difficult task. Although prospective and very interesting. I cannot say that I have become a guru and understood everything - I need to delve deeper into this topic, read additional material and retake this course again.
+
+</p>
+</details>
 
 <h2>:white_large_square: Memory pair game</h2>
 
